@@ -21,7 +21,7 @@ Construct a machine learning predictive model which estimates next season wildfi
 ### Duration: 
 2 months [due 4/21].
 
-### Strategies
+### Strategies:
 
 ## Index (File Map)
 This GitHub repository is divided into three folders. They are described below in the general logical order that you should access them to understand the project.
