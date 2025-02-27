@@ -2,7 +2,7 @@
 A test version for Erdos 2025 Data science project Pyrolitics. Below is the real deal:
 # Pyrolitics: A Study on Wildfire Impact Prediction with Electric Power Usage
 ## Thrive or Survive: Predicting the Health of Trees following Forest Fires in Washington
-A project by @Junhui Shi @Malik Tuerkoen @Marco Lopez @Faycal Chaouqui @Maureen Zhang
+A project by Maureen Zhang, Faycal Chaouqui, Marco Lopez, Malik Tuerkoen, Junhui Shi.
 
 ## Overview
 - Introduce background on recent wildfire, on elctric companay, etc. Cite sources.
@@ -10,12 +10,17 @@ A project by @Junhui Shi @Malik Tuerkoen @Marco Lopez @Faycal Chaouqui @Maureen 
 - whats the result and implication
 ### Motivation:
 
-### Question:
-
 ### Stakeholders:
-- Company names
-
-### KPI:
+- Electricity companies: PG&E
+- Smart Grid companies: General Electric, Siemens, etc.
+- Governments & NGOs: FEMA, The Red Cross, USDA, IAFF, The Salvation Army, etc.
+### KPI(s):
+- Internal: Prediction Accuracy (MSE), Recall, Area Coverage(?). external: Burn Probability, Aggregate Fire Damage, Energy Efficiency, MTBF, SAIFI, etc.
+### Objectives:
+Construct a machine learning predictive model which estimates next season wildfire damage to civilian structures given electricity usages.
+[Optional] Electricity/Power Usage Scheduling System to minimize wildfire risks or costs
+### Duration: 
+2 months [due 4/21].
 
 ### Strategies
 
@@ -24,6 +29,12 @@ This GitHub repository is divided into three folders. They are described below i
 
 ### Raw Data
 The Data folder contains...
+Source(https://docs.google.com/document/d/17OajxRLVHEwcg4vdvJqcXwaCEyImqvhGxfUy4EC54E0/edit?pli=1&tab=t.0)
+- Gov wildfire dataset: link, link
+- electricity consumption dataset: data, data
+- US Street maps: https://wiki.openstreetmap.org/wiki/California
+- Housing prices: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset, 
+- CA transmission lines: link1, link2
 
 ### Cleaned Data
 
