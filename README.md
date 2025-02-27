@@ -29,7 +29,7 @@ This GitHub repository is divided into three folders. They are described below i
 
 ### Raw Data
 The Data folder contains...
-Source(https://docs.google.com/document/d/17OajxRLVHEwcg4vdvJqcXwaCEyImqvhGxfUy4EC54E0/edit?pli=1&tab=t.0)
+Source(https://docs.google.com/document/d/17OajxRLVHEwcg4vdvJqcXwaCEyImqvhGxfUy4EC54E0/edit?pli=1&tab=t.0) (https://docs.google.com/document/d/1XkYzE1MsjFbh27yVnMP0CjG-SWTnXkN2Oo4c_z37KOE/edit?usp=sharing)
 - Gov wildfire dataset: link, link
 - electricity consumption dataset: data, data
 - US Street maps: https://wiki.openstreetmap.org/wiki/California
