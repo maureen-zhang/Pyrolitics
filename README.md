@@ -1,5 +1,3 @@
-# Pyrolitics_Private
-A test version for Erdos 2025 Data science project Pyrolitics. Below is the real deal:
 # Pyrolitics: A Study on Wildfire Impact Prediction with Electric Power Usage
 A project by Maureen Zhang, Faycal Chaouqui, Marco Lopez, Malik Tuerkoen, Junhui Shi.
 
