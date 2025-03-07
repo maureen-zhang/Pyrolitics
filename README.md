@@ -72,4 +72,16 @@ These analyses serve as the foundation for further machine learning modeling and
 ## References
 - Sayarshad, H. R. (2023). *Preignition risk mitigation model for analysis of wildfires caused by electrical power conductors.*  
 *International Journal of Electrical Power & Energy Systems, 153*, 109353.  
-DOI: [10.1016/j.ijepes.2023.109353](https://doi.org/10.1016/j.ijepes.2023.109353)  
+DOI: [10.1016/j.ijepes.2023.109353](https://doi.org/10.1016/j.ijepes.2023.109353) 
+
+- Warner, C., Callaway, D., & Fowlie, M. (2024). *Risk-Cost Tradeoffs in Power Sector Wildfire Prevention.*  
+  *Energy Institute at Haas: Berkeley, CA, USA.*  
+  [Full Text](https://www.haas.berkeley.edu/wp-content/uploads/WP347.pdf)  
+
+- Sohrabi, B., Arabnya, A., Thompson, M. P., & Khodaei, A. (2024). *A Wildfire Progression Simulation and Risk-Rating Methodology for Power Grid Infrastructure.*  
+  *IEEE Access, 12*, 112144-112156.  
+  DOI: [10.1109/ACCESS.2024.3439724](https://doi.org/10.1109/ACCESS.2024.3439724)
+
+- Pollack, M., Piansky, R., Gupta, S., Kody, A., & Molzahn, D. (2024). *Equitably allocating wildfire resilience investments for power grids: The curse of aggregation and vulnerability indices.*  
+  *arXiv preprint*, arXiv:2404.11520.  
+  [Full Text](https://arxiv.org/abs/2404.11520)
