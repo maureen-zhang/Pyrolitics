@@ -8,10 +8,10 @@ Currently, government agencies and electricity companies face massive financial 
 
 This project aims to fill that gap by leveraging machine learning to analyze how wildfires and power grids interact, predict financial losses, and provide actionable insights for government agencies and electricity companies.
 
-Still missing [ the result and implication]
+### Approach
+By integrating wildfire data, power grid geography, electricity usage, stock prices, fire victim trust funds, and electricity revenue, this project delivers a comprehensive, data-driven approach to wildfire mitigation. By predicting financial losses and infrastructure risks, it empowers governments and electricity companies to minimize economic damage, enhance fire prevention, and optimize power grid resilience. The ultimate goal is to build a sustainable, cost-effective energy infrastructure in Southern California while mitigating the devastating impact of wildfires.
 
-### Motivation:
-By integrating wildfire data, power grid geography, electricity usage, stock prices, fire victim trust funds, and electricity revenue, this project delivers a data-driven approach to wildfire mitigation. By predicting financial losses and infrastructure risks, it empowers governments and electricity companies to minimize economic damage, enhance fire prevention, and optimize power grid resilience. The ultimate goal is to build a sustainable, cost-effective energy infrastructure in Southern California while mitigating the devastating impact of wildfires.
+### Results and Implications
 
 ### Stakeholders:
 - Electricity companies: PG&E
@@ -20,15 +20,17 @@ By integrating wildfire data, power grid geography, electricity usage, stock pri
 ### KPI(s):
 - Internal: Prediction Accuracy (MSE), Recall, Area Coverage(?). external: Burn Probability, Aggregate Fire Damage, Energy Efficiency, MTBF, SAIFI, etc.
 ### Objectives:
-Construct a machine learning predictive model which estimates next season wildfire damage to civilian structures given electricity usages.
-[Optional] Electricity/Power Usage Scheduling System to minimize wildfire risks or costs
+- Identify High-Risk Areas: Use geospatial and environmental data to pinpoint grid alignments that pose higher fire risks.
+- Quantify Financial Losses: Assess the economic impact of wildfire-induced power grid failures on infrastructure, company valuation, and fire-related compensation.
+- [Maybe not??] Optimize Power Grid Strategy: Guide infrastructure planning and power usage adjustments to minimize future losses and enhance grid resilience.
+
 ### Duration: 
 2 months [due 4/21].
 
 ### Strategies:
 
 ## Index (File Map)
-This GitHub repository is divided into three folders. They are described below in the general logical order that you should access them to understand the project.
+This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
 
 ### Raw Data
 
