@@ -31,6 +31,29 @@ By integrating wildfire data, power grid geography, electricity usage, stock pri
 
 ## Index (File Map)
 This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
+## Exploratory Data Analysis (This is for the Mar 7 checkpoint)
+This folder contains preliminary and exploratory data visualization and analysis of the current dataset we have gathered. 
+The analysis includes pairwise comparisons between different datasets to uncover patterns and relationships related 
+to wildfires and power grid infrastructure.
+
+### Included Analyses:
+- **Electricity Usage and Wildfire Incidents**  
+  Examining the correlation between power consumption and fire occurrences.  
+
+- **Geospatial Analysis of Fire and Power Grid**  
+  Mapping the locations of wildfires relative to power grid infrastructure.  
+
+- **Geospatial Analysis of Fire Intensity**  
+  Identifying high-risk zones based on wildfire severity.  
+
+- **Vegetation and Fire Risk**  
+  Investigating how vegetation density influences wildfire spread and ignition near power lines.  
+
+- **Economic Impact of Disasters**  
+  Assessing the financial consequences of wildfires, including infrastructure damage and disaster response costs.  
+
+These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
+
 
 ### Raw Data
 
@@ -47,7 +70,6 @@ This GitHub repository is divided into the following folders. They are described
 
 
 ## References
-Sayarshad, H. R. (2023). *Preignition risk mitigation model for analysis of wildfires caused by electrical power conductors.*  
+- Sayarshad, H. R. (2023). *Preignition risk mitigation model for analysis of wildfires caused by electrical power conductors.*  
 *International Journal of Electrical Power & Energy Systems, 153*, 109353.  
 DOI: [10.1016/j.ijepes.2023.109353](https://doi.org/10.1016/j.ijepes.2023.109353)  
-[ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0142061523004106) 
