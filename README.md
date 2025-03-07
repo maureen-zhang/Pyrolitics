@@ -1,5 +1,5 @@
 # Pyrolitics: A Study on Wildfire Impact Prediction with Electric Power Usage
-A project by Maureen Zhang, Faycal Chaouqui, Marco Lopez, Malik Tuerkoen, Junhui Shi.
+A project by Junhui Shi, Faycal Chaouqui, Marco Lopez, Malik Tuerkoen, Maureen Zhang.
 
 ## Overview
 Wildfires and power grids are deeply interconnected—fires damage electrical infrastructure, incurring high repair costs and economic losses, while power lines are a major ignition source. In Southern California, where dry conditions, strong winds, and dense vegetation heighten wildfire risks, understanding this relationship is essential.
