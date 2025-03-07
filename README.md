@@ -43,3 +43,11 @@ This GitHub repository is divided into the following folders. They are described
 ### Maps and Data Visualization
 
 ## Conclusion
+
+
+
+## References
+Sayarshad, H. R. (2023). *Preignition risk mitigation model for analysis of wildfires caused by electrical power conductors.*  
+*International Journal of Electrical Power & Energy Systems, 153*, 109353.  
+DOI: [10.1016/j.ijepes.2023.109353](https://doi.org/10.1016/j.ijepes.2023.109353)  
+[ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0142061523004106) 
