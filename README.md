@@ -2,11 +2,11 @@
 A project by Maureen Zhang, Faycal Chaouqui, Marco Lopez, Malik Tuerkoen, Junhui Shi.
 
 ## Overview
-Wildfires and power grids share a complex, destructive relationship—wildfires damage electrical infrastructure, leading to significant repair costs and economic disruptions, while power lines themselves are a major ignition source for fires. In Southern California, where wildfire risk is high due to dry conditions, strong winds, and dense vegetation, understanding this relationship is critical.
+Wildfires and power grids are deeply interconnected—fires damage electrical infrastructure, incurring high repair costs and economic losses, while power lines are a major ignition source. In Southern California, where dry conditions, strong winds, and dense vegetation heighten wildfire risks, understanding this relationship is essential.
 
-Currently, government agencies and electricity companies face massive financial losses from fire-induced grid failures, legal liabilities, stock fluctuations, and fire victim compensation funds. However, these losses are often reactive rather than proactively mitigated. There is no existing predictive model that quantifies the full economic impact of wildfire-related power grid failures or guides infrastructure adjustments to minimize future risks.
+Government agencies and electricity companies suffer significant financial losses from grid failures, legal liabilities, stock fluctuations, and fire victim compensation funds, yet mitigation efforts remain reactive rather than proactive. A quantified cost-risk assessment can incentivize governments and power companies to adopt a strategic, preventive approach to wildfire mitigation.
 
-This project aims to fill that gap by leveraging machine learning to analyze how wildfires and power grids interact, predict financial losses, and provide actionable insights for government agencies and electricity companies.
+This project bridges that gap by leveraging machine learning to analyze wildfire-power grid interactions, predict financial losses, and offer actionable insights to optimize infrastructure and reduce economic damage.
 
 ### Approach
 By integrating wildfire data, power grid geography, electricity usage, stock prices, fire victim trust funds, and electricity revenue, this project delivers a comprehensive, data-driven approach to wildfire mitigation. By predicting financial losses and infrastructure risks, it empowers governments and electricity companies to minimize economic damage, enhance fire prevention, and optimize power grid resilience. The ultimate goal is to build a sustainable, cost-effective energy infrastructure in Southern California while mitigating the devastating impact of wildfires.
