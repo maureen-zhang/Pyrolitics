@@ -14,8 +14,10 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 ### Results and Implications
 
 - As part of our initial exploratory analysis, we plotted a map of transmission lines and wildfire locations in California:
-  ![Wildfire Risk Map](Maps%20and%20Data%20Visualization/transmission_wildfire2011.png)
-- We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
+  <p align="center">
+    <img src="Maps%20and%20Data%20Visualization/transmission_wildfire2011.png" alt="Wildfire Risk Map" width="45%">
+  </p>
+  - We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
 - Fire frequency correlates more strongly with **electricity usage** than with the **magnitude or severity** of individual fire events.
 
 ### Stakeholders:
