@@ -17,7 +17,7 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
   <p align="center">
     <img src="Maps%20and%20Data%20Visualization/transmission_wildfire2011.png" alt="Wildfire Risk Map" width="45%">
   </p>
-  - We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
+- We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
 - Fire frequency correlates more strongly with **electricity usage** than with the **magnitude or severity** of individual fire events.
 
 ### Stakeholders:
@@ -35,21 +35,20 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 2 months [due 4/21].
 
 ### Strategies:
-- We applied feature engineering by multiplying time-invariant features with time-dependent variables. These interaction terms captured dynamic relationships more effectively, and several emerged as strong predictors in the regression model.
+- Through cleaning and processing, we have obtained a panel datase.
 - We categorized key variables to better represent non-linear effects and support interpretable analysis.
-- We merged diverse datasets—including vegetation indices, weather data, and electricity usage—to create a unified, model-ready panel data.
-- We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model's ability to reflect localized and time-varying risk factors.
-- leveraging liberary such as geo panda, Osl, etc. 
+- We enhanced feature variability by multiplying time-invariant features with time-dependent variables. These interaction terms captured dynamic relationships more effectively, with several emerging as strong predictors in the regression model.
+- We merged diverse datasets—including vegetation indices, weather data, and electricity comsumption, and wildfire records to create a unified, model-ready panel data containing strategically engineered features ranging from year 1992 to year 2020.
+- We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model’s ability to reflect localized and time-varying risk factors. This was supported by libraries such as GeoPandas, OSMnx, and statsmodels (for OLS regression), and involved handling geospatial formats like shapefiles and GeoJSON, as well as performing spatial joins, distance calculations, and infrastructure mapping.
 - Using a simple model like panel regression, we gain clearer insight into how the structure of the data frame and the selection of features influence the model's performance and reliability.
 
   
 ## Index (File Map)
 This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
-
-### Included Analyses:
-
-These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
-
+- get_data.ipynb
+  
+- Pyrolitics.ipynb
+-- These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
 
 ## Conclusion
 In this project we introduced panal data strucnture
@@ -84,4 +83,3 @@ The project utilizes data from the following sources:
 ](https://catalog.data.gov/dataset/california-electricity-consumption-database-e26e9)
 *   Vegetation data from the [California Department of Fish and Wildlife.](https://wildlife.ca.gov/Data/GIS/Vegetation-Data)
 *  County data was obtained from [data.gov.](https://catalog.data.gov/dataset/counties2)
-*Through cleaning and processing, we have obtained a panel dataset containing strategically engineered features ranging from year 1992 to year 2020.
