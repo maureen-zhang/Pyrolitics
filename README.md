@@ -6,12 +6,13 @@ Wildfires and power grids are deeply interconnected—fires damage electrical in
 
 Government agencies and electricity companies suffer significant financial losses from grid failures, legal liabilities, stock fluctuations, and fire victim compensation funds, yet mitigation efforts remain reactive rather than proactive. A quantified cost-risk assessment can incentivize governments and power companies to adopt a strategic, preventive approach to wildfire mitigation.
 
-This project bridges that gap by leveraging machine learning to analyze wildfire-power grid interactions, predict financial losses, and offer actionable insights to optimize infrastructure and reduce economic damage.
+This project bridges that gap by leveraging machine learning to analyze wildfire-power grid interactions, and offer actionable insights to optimize infrastructure and reduce economic damage.
 
 ### Approach
-By integrating wildfire data, power grid geography, electricity usage, stock prices, fire victim trust funds, and electricity revenue, this project delivers a comprehensive, data-driven approach to wildfire mitigation. By predicting financial losses and infrastructure risks, it empowers governments and electricity companies to minimize economic damage, enhance fire prevention, and optimize power grid resilience. The ultimate goal is to build a sustainable, cost-effective energy infrastructure in Southern California while mitigating the devastating impact of wildfires.
+By integrating wildfire records, weather conditions, vegetation indices, power grid geography, and electricity consumption data, this project delivers a comprehensive, data-driven framework for wildfire prediction. Through strategic feature engineering and careful evaluation, we aim to enhance fire prevention and mitigation efforts.
 
 ### Results and Implications
+- With panel regression, we 
 
 ### Stakeholders:
 - Electricity companies: PG&E
@@ -45,7 +46,7 @@ This GitHub repository is divided into the following folders. They are described
 - **Vegetation and Fire Risk**  
   Investigating how vegetation density influences wildfire spread and ignition near power lines.  
 
-- **Economic Impact of Disasters**  
+- **Weather Data**  
   Assessing the financial consequences of wildfires, including infrastructure damage and disaster response costs.  
 
 These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
