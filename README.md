@@ -34,7 +34,6 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 2 months [due 4/21].
 
 ### Strategies:
-- Through cleaning and processing, we have obtained a panel datase.
 - We categorized key variables to better represent non-linear effects and support interpretable analysis.
 - We enhanced feature variability by multiplying time-invariant features with time-dependent variables. These interaction terms captured dynamic relationships more effectively, with several emerging as strong predictors in the regression model.
 - We merged diverse datasets—including vegetation indices, weather data, and electricity comsumption, and wildfire records to create a unified, model-ready panel data containing strategically engineered features ranging from year 1992 to year 2020.
