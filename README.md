@@ -37,7 +37,7 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 - We categorized key variables to better represent non-linear effects and support interpretable analysis.
 - We enhanced feature variability by multiplying time-invariant features with time-dependent variables. These interaction terms captured dynamic relationships more effectively, with several emerging as strong predictors in the regression model.
 - We merged diverse datasets—including vegetation indices, weather data, and electricity comsumption, and wildfire records to create a unified, model-ready panel data containing strategically engineered features ranging from year 1992 to year 2020.
-- We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model’s ability to reflect localized and time-varying risk factors. This was supported by libraries such as GeoPandas, OSMnx, and statsmodels (for OLS regression), and involved handling geospatial formats like shapefiles and GeoJSON, as well as performing spatial joins, distance calculations, and infrastructure mapping.
+- We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model’s ability to reflect localized and time-varying risk factors. This was supported by libraries such as GeoPandas, statsmodels (for OLS regression), and involved handling geospatial formats like shapefiles and GeoJSON, as well as performing spatial joins, distance calculations, and infrastructure mapping.
 - Using a simple model like panel regression, we gain clearer insight into how the structure of the data frame and the selection of features influence the model's performance and reliability.
 
   
