@@ -27,9 +27,8 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 ### KPI(s):
 - Internal: Prediction Accuracy (MSE), Recall, Area Coverage(?). external: Burn Probability, Aggregate Fire Damage, Energy Efficiency, MTBF, SAIFI, etc.
 ### Objectives:
-- Construct a model‑ready data frame with clean, well‑curated features.
-- Insights into apporpriet model for predicting fire.
-- Using Machine learning model ro investigate the relation between fire  
+- Construct a model-ready data frame with clean, well-curated features.
+- Gain insights into appropriate modeling approaches for predicting wildfire occurrence and frequency.
 
 ### Duration: 
 2 months [due 4/21].
