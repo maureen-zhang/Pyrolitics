@@ -12,10 +12,11 @@ This project bridges that gap by leveraging machine learning to analyze wildfire
 By integrating wildfire records, weather conditions, vegetation indices, power grid geography, and electricity consumption data, this project delivers a comprehensive, data-driven framework for wildfire prediction. Through strategic feature engineering and careful evaluation, we aim to enhance fire prevention and mitigation efforts.
 
 ### Results and Implications
--  we ploted the transmission line and fire on the map of california.
-  ![Wildfire Risk Map](Maps and Data Visualization/transmission_wildfire2011.png)
-- There is a significant correlation between product of eletricity comsumption and vegetaion changes and the number of fires in a given county in a given year.
-- The frequency of fires appears to correlate more strongly with electricity consumption than with the magnitude or severity of individual fire events.
+
+- As part of our initial exploratory analysis, we plotted a map of transmission lines and wildfire locations in California:
+  ![Wildfire Risk Map](Maps%20and%20Data%20Visualization/transmission_wildfire2011.png)
+- We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
+- Fire frequency correlates more strongly with **electricity usage** than with the **magnitude or severity** of individual fire events.
 
 ### Stakeholders:
 - Electricity companies: PG&E
