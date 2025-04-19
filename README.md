@@ -24,11 +24,11 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 - Electricity companies: PG&E
 - Smart Grid companies: General Electric, Siemens, etc.
 - Governments & NGOs: FEMA, The Red Cross, USDA, IAFF, The Salvation Army, etc.
-### KPI(s):
-- Internal: Prediction Accuracy (MSE), Recall, Area Coverage(?). external: Burn Probability, Aggregate Fire Damage, Energy Efficiency, MTBF, SAIFI, etc.
+
 ### Objectives:
 - Construct a model-ready data frame with clean, well-curated features.
 - Gain insights into appropriate modeling approaches for predicting wildfire occurrence and frequency.
+- Understand how data structure and feature design impact model performance by evaluating various machine learning algorithms.
 
 ### Duration: 
 2 months [due 4/21].
@@ -43,11 +43,14 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 
   
 ## Index (File Map)
-This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
-- get_data.ipynb
-  
-- Pyrolitics.ipynb
--- These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
+
+This GitHub repository is organized into the following key files, listed in the general order recommended for understanding the project:
+
+- `get_data.ipynb`  
+  Downloads all necessary datasets from a shared Google Drive folder and prepares them for analysis.
+
+- `Pyrolitics.ipynb`  
+  Contains exploratory analysis, feature engineering, and initial statistical modeling. These analyses lay the groundwork for subsequent machine learning and wildfire risk assessment.
 
 ## Conclusion
 In this project we introduced panal data strucnture
