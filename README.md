@@ -13,7 +13,7 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 
 ### Results and Implications
 
-- As part of our initial exploratory analysis, we plotted a map of transmission lines and wildfire locations in California:
+- As part of our initial exploratory analysis, we plotted a map of transmission lines and wildfire locations in California, showing overlapping of transmission lines and wildfires:
   <p align="center">
     <img src="Maps%20and%20Data%20Visualization/transmission_wildfire2011.png" alt="Wildfire Risk Map" width="45%">
   </p>
