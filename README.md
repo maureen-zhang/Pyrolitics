@@ -36,8 +36,6 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 - We merged diverse datasets—including vegetation indices, weather data, and electricity usage—to create a unified, model-ready panel data.
 - We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model's ability to reflect localized and time-varying risk factors.
 
-
-
   
 ## Index (File Map)
 This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
@@ -83,3 +81,15 @@ DOI: [10.1016/j.ijepes.2023.109353](https://doi.org/10.1016/j.ijepes.2023.109353
 - Pollack, M., Piansky, R., Gupta, S., Kody, A., & Molzahn, D. (2024). *Equitably allocating wildfire resilience investments for power grids: The curse of aggregation and vulnerability indices.*  
   *arXiv preprint*, arXiv:2404.11520.  
   [Full Text](https://arxiv.org/abs/2404.11520)
+
+## Data Sources
+
+The project utilizes data from the following sources:
+*   Wildfire data from [Kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)
+*   Transmission line data from the [CA  Energy Comission](https://cecgis-caenergy.opendata.arcgis.com/datasets/CAEnergy::california-electric-transmission-lines-1/about)
+*   Weather data from [NOAA' National Centers for Environmental Information.](https://www.ncei.noaa.gov/)
+*   Electricity consumption data from [California Electricity Consumption Database
+](https://catalog.data.gov/dataset/california-electricity-consumption-database-e26e9)
+*   Vegetation data from the [California Department of Fish and Wildlife.](https://wildlife.ca.gov/Data/GIS/Vegetation-Data)
+*  County data was obtained from [data.gov.](https://catalog.data.gov/dataset/counties2)
+*Through cleaning and processing, we have obtained a panel dataset containing strategically engineered features ranging from year 1992 to year 2020.
