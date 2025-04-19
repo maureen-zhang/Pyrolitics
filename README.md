@@ -13,7 +13,7 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 
 ### Results and Implications
 - Using a simple model like panel regression, we gain clearer insight into how the structure of the data frame and the selection of features influence the model's performance and reliability.
-- There is a significant correlation between [insert feature] and the number of fires in a given county in a given year.
+- There is a significant correlation between product of eletricity comsumption and vegetaion changes and the number of fires in a given county in a given year.
 - The frequency of fires appears to correlate more strongly with electricity consumption than with the magnitude or severity of individual fire events.
 
 ### Stakeholders:
@@ -31,7 +31,14 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 2 months [due 4/21].
 
 ### Strategies:
+- We applied feature engineering by multiplying time-invariant features with time-dependent variables. These interaction terms captured dynamic relationships more effectively, and several emerged as strong predictors in the regression model.
+- We categorized key variables to better represent non-linear effects and support interpretable analysis.
+- We merged diverse datasets—including vegetation indices, weather data, and electricity usage—to create a unified, model-ready panel data.
+- We leveraged the panel data structure to simultaneously capture both spatial and temporal patterns, enhancing the model's ability to reflect localized and time-varying risk factors.
 
+
+
+  
 ## Index (File Map)
 This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
 
