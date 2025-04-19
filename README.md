@@ -12,7 +12,9 @@ This project bridges that gap by leveraging machine learning to analyze wildfire
 By integrating wildfire records, weather conditions, vegetation indices, power grid geography, and electricity consumption data, this project delivers a comprehensive, data-driven framework for wildfire prediction. Through strategic feature engineering and careful evaluation, we aim to enhance fire prevention and mitigation efforts.
 
 ### Results and Implications
-- With panel regression, we 
+- Using a simple model like panel regression, we gain clearer insight into how the structure of the data frame and the selection of features influence the model's performance and reliability.
+- There is a significant correlation between [insert feature] and the number of fires in a given county in a given year.
+- The frequency of fires appears to correlate more strongly with electricity consumption than with the magnitude or severity of individual fire events.
 
 ### Stakeholders:
 - Electricity companies: PG&E
@@ -52,19 +54,10 @@ This GitHub repository is divided into the following folders. They are described
 These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
 
 
-### Raw Data
-### Raw Data
-
-### Cleaned Data
-
-### Papers
-
-### Models
-
-### Maps and Data Visualization
-
 ## Conclusion
-
+In this project we introduced panal data strucnture
+leveraging the county and time series nature the data, we use
+Through our effort, we have enhanced the 
 
 
 ## References
