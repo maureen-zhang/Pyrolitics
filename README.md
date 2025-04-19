@@ -20,9 +20,9 @@ By integrating wildfire data, power grid geography, electricity usage, stock pri
 ### KPI(s):
 - Internal: Prediction Accuracy (MSE), Recall, Area Coverage(?). external: Burn Probability, Aggregate Fire Damage, Energy Efficiency, MTBF, SAIFI, etc.
 ### Objectives:
-- Identify High-Risk Areas: Use geospatial and environmental data to pinpoint grid alignments that pose higher fire risks.
-- Quantify Financial Losses: Assess the economic impact of wildfire-induced power grid failures on infrastructure, company valuation, and fire-related compensation.
-- [Maybe not??] Optimize Power Grid Strategy: Guide infrastructure planning and power usage adjustments to minimize future losses and enhance grid resilience.
+- Construct a model‑ready data frame with clean, well‑curated features.
+- Insights into apporpriet model for predicting fire.
+- Using Machine learning model ro investigate the relation between fire  
 
 ### Duration: 
 2 months [due 4/21].
@@ -31,10 +31,6 @@ By integrating wildfire data, power grid geography, electricity usage, stock pri
 
 ## Index (File Map)
 This GitHub repository is divided into the following folders. They are described below in the general logical order that you should access them to understand the project.
-## Exploratory Data Analysis (This is for the Mar 7 checkpoint)
-This folder contains preliminary and exploratory data visualization and analysis of the current dataset we have gathered. 
-The analysis includes pairwise comparisons between different datasets to uncover patterns and relationships related 
-to wildfires and power grid infrastructure.
 
 ### Included Analyses:
 - **Electricity Usage and Wildfire Incidents**  
@@ -55,6 +51,7 @@ to wildfires and power grid infrastructure.
 These analyses serve as the foundation for further machine learning modeling and risk assessment in this project.
 
 
+### Raw Data
 ### Raw Data
 
 ### Cleaned Data
