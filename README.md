@@ -28,7 +28,7 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
 ### Objectives:
 - Construct a model-ready data frame with clean, well-curated features.
 - Gain insights into appropriate modeling approaches for predicting wildfire occurrence and frequency.
-- Understand how data structure and feature design impact model performance by evaluating various machine learning algorithms.
+- Understand how data structure and feature design impact model performance by evaluating panel regression algorithms.
 
 ### Duration: 
 2 months [due 4/21].
