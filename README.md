@@ -17,13 +17,13 @@ By integrating wildfire records, weather conditions, vegetation indices, power g
   <p align="center">
     <img src="Maps%20and%20Data%20Visualization/transmission_wildfire2011.png" alt="Wildfire Risk Map" width="45%">
   </p>
-- We found a significant correlation between the **product of electricity consumption and vegetation change** and the number of fires in a given county per year.
+- We observed a significant increase in correlation with wildfire occurrence when combining features through multiplication—for example, the product of electricity consumption and vegetation change showed a strong correlation with the number of fires in a given county per year.
 - Fire frequency correlates more strongly with **electricity usage** than with the **magnitude or severity** of individual fire events.
 
 ### Stakeholders:
 - Electricity companies: PG&E
 - Smart Grid companies: General Electric, Siemens, etc.
-- Governments & NGOs: FEMA, The Red Cross, USDA, IAFF, The Salvation Army, etc.
+- Governments & NGOs: FEMA, The Red Cross, USDA, IAFF, etc.
 
 ### Objectives:
 - Construct a model-ready data frame with clean, well-curated features.
