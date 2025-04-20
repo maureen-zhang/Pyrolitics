@@ -52,10 +52,11 @@ This GitHub repository is organized into the following key files, listed in the 
   Contains exploratory analysis, feature engineering, and initial statistical modeling. These analyses lay the groundwork for subsequent machine learning and wildfire risk assessment.
 
 ## Conclusion
-In this project we introduced panal data strucnture
-leveraging the county and time series nature the data, we use
-Through our effort, we have enhanced the 
+This project demonstrates the potential of using a panel data framework to capture both spatial and temporal dimensions of wildfire risk in relation to electric power infrastructure. By engineering dynamic features and integrating diverse datasets—ranging from vegetation and weather to electricity usage and transmission line geography—we uncovered actionable correlations that can inform smarter mitigation strategies.
 
+Our findings reveal that electricity consumption, especially when combined with vegetation change, is a strong predictor of fire frequency, offering valuable insights for utility companies and policymakers. While we began with a simple panel regression model, the foundation laid here enables future development of more complex machine learning approaches for wildfire prediction and infrastructure planning.
+
+Ultimately, Pyrolitics highlights the importance of data-driven, proactive approaches study of wildfire and its related features. 
 
 ## References
 - Sayarshad, H. R. (2023). *Preignition risk mitigation model for analysis of wildfires caused by electrical power conductors.*  
